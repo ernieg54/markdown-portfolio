@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![**This is a library!](https://www.pexels.com/photo/assorted-books-on-shelf-1290141/)
