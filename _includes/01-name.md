@@ -1,3 +1,3 @@
-Ernie
-## Some info
+## Ernie
+### Some info
 Info
